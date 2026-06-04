@@ -63,12 +63,24 @@ Asset_Rental_Agreement_Analytics_Portfolio/
 - Rental amount distribution
 - Asset cost vs rental amount relationship
 - Missing data visualization
+<img width="2082" height="834" alt="image" src="https://github.com/user-attachments/assets/7bf70bd6-3da0-4861-ac8c-5ebba6be8c3a" />
+  <img width="2086" height="844" alt="image" src="https://github.com/user-attachments/assets/f5a25350-c5d8-41b8-838f-37e56c4ecb0c" />
+  <img width="2096" height="778" alt="image" src="https://github.com/user-attachments/assets/612fe773-989c-4e55-a36e-104e5e2be325" />
+  <img width="2120" height="802" alt="image" src="https://github.com/user-attachments/assets/3a1a6e30-751c-44e2-bdf6-ab7aa19c34e1" />
+  <img width="2198" height="800" alt="image" src="https://github.com/user-attachments/assets/d73d8413-91c6-42af-bec6-6197b7850aee" />
+
+
+
 
 ### Section III: Prepare Data for Training
 - Clean column names
 - Handle missing values
 - Create useful features such as rental-to-cost ratio, lease age, and days until primary term end
 - Encode categorical variables
+
+  
+
+
 
 ### Section IV: Regression Modeling
 - Train Linear Regression and Random Forest Regressor
@@ -78,6 +90,12 @@ Asset_Rental_Agreement_Analytics_Portfolio/
 - Actual vs predicted rental amount plot
 - Feature importance chart
 - Residual error review
+  <img width="2178" height="780" alt="image" src="https://github.com/user-attachments/assets/fdb28bb4-ece9-443b-b8f9-e9ba415026e4" />
+  <img width="2086" height="800" alt="image" src="https://github.com/user-attachments/assets/629076bb-d587-42c8-9499-849362c39dab" />
+  <img width="2084" height="780" alt="image" src="https://github.com/user-attachments/assets/aa7f2adc-99a3-4812-ba7c-8f5eea8b2986" />
+
+
+
 
 ### Section VI: Business Recommendations
 - Identify high-cost vendors/assets
