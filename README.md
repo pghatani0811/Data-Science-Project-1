@@ -84,7 +84,7 @@ Asset_Rental_Agreement_Analytics_Portfolio/
 
 ### Section IV: Regression Modeling
 - Train Linear Regression and Random Forest Regressor
-- Compare model performance using MAE, RMSE, and R²
+- Compare model performance using MAEean_absolute_error), RMSE(Root Mean Squared Error), and R²(R-squared,Coefficient of Determination)
 
 ### Section V: Model Evaluation and Visualization
 - Actual vs predicted rental amount plot
