@@ -136,7 +136,7 @@ jupyter notebook notebooks/Asset_Rental_Analytics.ipynb
 - Plotly
 - Scikit-learn
 - Jupyter Notebook
-- Joblib
+- Joblib (library used to save and load Python objects efficiently, especially used in scikit-learn)
 
 ## Author
 
