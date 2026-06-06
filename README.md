@@ -108,7 +108,7 @@ Asset_Rental_Agreement_Analytics_Portfolio/
 
 Activities:
 
-- Load lease asset dataset
+- Load Excel lease asset dataset
 - Review data structure
 - Analyze column types
 - Evaluate missing values
