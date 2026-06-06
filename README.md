@@ -21,7 +21,22 @@ The project follows a simple data science process:
 
 A company has many leased assets across contracts, vendors, manufacturers, and locations. Without analytics, it is hard to identify expensive assets, rental anomalies, upcoming contract risks, and cost-saving opportunities.
 
+- Identify high-cost leased assets
+- Detect unusual rental pricing patterns
+- Monitor contract expiration risks
+- Improve budgeting and forecasting
+- Optimize lease management strategies
+
+This project addresses these challenges by analyzing lease asset information and developing predictive models that estimate monthly rental amounts.
+
 **Main prediction target:** `Asset Rental Amount`
+
+Asset Rental Amount
+
+The primary objective is to identify the key drivers of rental costs and build models capable of predicting monthly rental expenses.
+
+
+
 
 ## Dataset Summary
 
