@@ -53,7 +53,7 @@ The analysis is based on an active lease asset report containing asset, contract
 | Total Asset Cost | $2,055,670.82 |
 | Total Monthly Asset Rental Amount | $171,807.61 |
 
-# Key Dataset Attributes
+## Key Dataset Attributes
 - Contract Number
 - Vendor Name
 - Manufacturer
@@ -77,7 +77,7 @@ This project seeks to answer the following business questions:
 5. What business recommendations can reduce cost and improve lease management?
 
 
-# The primary objectives of this project are:
+## The primary objectives of this project are:
 
 Analyze lease asset financial performance
 Identify cost-saving opportunities
