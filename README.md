@@ -87,6 +87,20 @@ Develop predictive models for rental expenses
 Generate actionable business recommendations
 
 ## Repository Structure
+```text
+Asset_Rental_Agreement_Analytics_Portfolio/ 
+├── data/ 
+│ └── Jan_LAR.xlsx ├── notebooks/ 
+│ └── Asset_Rental_Analytics.ipynb ├── outputs/ 
+│ ├── charts/ │ ├── reports/ │ └── models/ 
+├── src/ 
+│ └── data_cleaning.py 
+├── README.md 
+├── requirements.txt 
+└── .gitignore
+
+```
+
 
 ```text
 Asset_Rental_Agreement_Analytics_Portfolio/
