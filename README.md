@@ -10,12 +10,12 @@ Using data analysis, charts, and machine learning, the project turns raw lease d
 
 The project follows a simple data science process:
 
-Data Collection
-Exploratory Data Analysis (EDA)
-Feature Engineering
-Predictive Modeling
-Model Evaluation
-Business Recommendations
+- Data Collection
+- Exploratory Data Analysis (EDA)
+- Feature Engineering
+- Predictive Modeling
+- Model Evaluation
+- Business Recommendations
 
 ## Business Problem
 
