@@ -40,6 +40,8 @@ The primary objective is to identify the key drivers of rental costs and build m
 
 ## Dataset Summary
 
+The analysis is based on an active lease asset report containing asset, contract, vendor, manufacturer, and financial information.
+
 | Metric | Value |
 |---|---:|
 | Rows | 1,727 |
