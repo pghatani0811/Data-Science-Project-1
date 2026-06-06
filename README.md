@@ -78,7 +78,8 @@ Asset_Rental_Agreement_Analytics_Portfolio/
 - Create useful features such as rental-to-cost ratio, lease age, and days until primary term end
 - Encode categorical variables
 
-  
+  <img width="1330" height="264" alt="image" src="https://github.com/user-attachments/assets/4a9f6e8a-2729-49b2-a62a-da1375f542ca" />
+
 
 
 
