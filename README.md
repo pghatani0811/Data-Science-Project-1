@@ -108,17 +108,17 @@ Asset_Rental_Agreement_Analytics_Portfolio/
 
 Activities:
 
-Load lease asset dataset
-Review data structure
-Analyze column types
-Evaluate missing values
-Define business objectives
+- Load lease asset dataset
+- Review data structure
+- Analyze column types
+- Evaluate missing values
+- Define business objectives
 
 Deliverables:
 
-Dataset summary
-Data quality assessment
-Initial business understanding
+- Dataset summary
+- Data quality assessment
+- Initial business understanding
 
 ## Notebook Sections
 
