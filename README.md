@@ -53,6 +53,20 @@ The analysis is based on an active lease asset report containing asset, contract
 | Total Asset Cost | $2,055,670.82 |
 | Total Monthly Asset Rental Amount | $171,807.61 |
 
+## Key Dataset Attributes
+Contract Number
+Vendor Name
+Manufacturer
+Asset Description
+Model Number
+Asset Quantity
+Asset Cost
+Asset Rental Amount
+Asset Rental Tax
+Commencement Date
+Primary Term End Date
+Geographic Location
+
 ## Research Questions
 
 1. Which vendors and manufacturers have the highest rental cost exposure?
