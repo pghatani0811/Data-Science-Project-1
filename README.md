@@ -54,18 +54,18 @@ The analysis is based on an active lease asset report containing asset, contract
 | Total Monthly Asset Rental Amount | $171,807.61 |
 
 ## Key Dataset Attributes
-Contract Number
-Vendor Name
-Manufacturer
-Asset Description
-Model Number
-Asset Quantity
-Asset Cost
-Asset Rental Amount
-Asset Rental Tax
-Commencement Date
-Primary Term End Date
-Geographic Location
+- Contract Number
+- Vendor Name
+- Manufacturer
+- Asset Description
+- Model Number
+- Asset Quantity
+- Asset Cost
+- Asset Rental Amount
+- Asset Rental Tax
+- Commencement Date
+- Primary Term End Date
+- Geographic Location
 
 ## Research Questions
 
