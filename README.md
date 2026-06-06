@@ -87,20 +87,6 @@ Develop predictive models for rental expenses
 Generate actionable business recommendations
 
 ## Repository Structure
-```text
-Asset_Rental_Agreement_Analytics_Portfolio/ 
-├── data/ 
-│ └── Jan_LAR.xlsx ├── notebooks/ 
-│ └── Asset_Rental_Analytics.ipynb ├── outputs/ 
-│ ├── charts/ │ ├── reports/ │ └── models/ 
-├── src/ 
-│ └── data_cleaning.py 
-├── README.md 
-├── requirements.txt 
-└── .gitignore
-
-```
-
 
 ```text
 Asset_Rental_Agreement_Analytics_Portfolio/
@@ -116,6 +102,23 @@ Asset_Rental_Agreement_Analytics_Portfolio/
 ├── requirements.txt
 └── .gitignore
 ```
+
+## Methodology
+# Section I: Data Access and Understanding
+
+Activities:
+
+Load lease asset dataset
+Review data structure
+Analyze column types
+Evaluate missing values
+Define business objectives
+
+Deliverables:
+
+Dataset summary
+Data quality assessment
+Initial business understanding
 
 ## Notebook Sections
 
