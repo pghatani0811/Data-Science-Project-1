@@ -141,4 +141,4 @@ jupyter notebook notebooks/Asset_Rental_Analytics.ipynb
 
 ## Author
 
-Prakash Ghatani
+Prakash Ghatani Master in Data Science, Regis University pghatani@regis.edu
