@@ -53,7 +53,7 @@ The analysis is based on an active lease asset report containing asset, contract
 | Total Asset Cost | $2,055,670.82 |
 | Total Monthly Asset Rental Amount | $171,807.61 |
 
-## Key Dataset Attributes
+# Key Dataset Attributes
 - Contract Number
 - Vendor Name
 - Manufacturer
@@ -68,12 +68,23 @@ The analysis is based on an active lease asset report containing asset, contract
 - Geographic Location
 
 ## Research Questions
+This project seeks to answer the following business questions:
 
 1. Which vendors and manufacturers have the highest rental cost exposure?
 2. Which asset types have the highest monthly rental amount?
 3. Are there unusual rental amounts compared with asset cost?
 4. Which features are most useful for predicting asset rental amount?
 5. What business recommendations can reduce cost and improve lease management?
+
+
+# The primary objectives of this project are:
+
+Analyze lease asset financial performance
+Identify cost-saving opportunities
+Detect rental pricing anomalies
+Improve lease data quality
+Develop predictive models for rental expenses
+Generate actionable business recommendations
 
 ## Repository Structure
 
