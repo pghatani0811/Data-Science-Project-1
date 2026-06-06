@@ -2,9 +2,20 @@
 
 ## Project Overview
 
-This portfolio project analyzes an active lease asset report for **Lexmark International Inc.** The goal is to understand asset rental costs, contract exposure, vendor patterns, missing data issues, and factors that help predict monthly asset rental amount.
+This project studies an active lease asset report for Lexmark International Inc.
 
-This repository follows the same simple portfolio style as the sample GitHub project: a clear README plus a Jupyter Notebook organized into sections for data access, exploratory analysis, data preparation, modeling, evaluation, and final recommendations.
+The goal is to identify ways to reduce costs, lower contract risks, and improve lease management. The analysis looks at asset rental costs, lease contracts, missing data, and the factors that affect monthly rental payments.
+
+Using data analysis, charts, and machine learning, the project turns raw lease data into useful business information that helps with financial and business decisions.
+
+The project follows a simple data science process:
+
+Data Collection
+Exploratory Data Analysis (EDA)
+Feature Engineering
+Predictive Modeling
+Model Evaluation
+Business Recommendations
 
 ## Business Problem
 
