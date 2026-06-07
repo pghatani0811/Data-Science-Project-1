@@ -104,7 +104,7 @@ Asset_Rental_Agreement_Analytics_Portfolio/
 ```
 
 ## Methodology
-# Section I: Data Access and Understanding
+## Section I: Data Access and Understanding
 
 Activities:
 
@@ -120,14 +120,11 @@ Deliverables:
 - Data quality assessment
 - Initial business understanding
 
-## Notebook Sections
 
-### Section I: Accessing the Data
-- Load the Excel file
-- Review rows, columns, data types, and missing values
-- Define the business goal and prediction target
+### Section II: Exploratory Data Analysis(EDA)
 
-### Section II: Exploratory Data Analysis
+The EDA phase investigates relationships, distributions, and patterns within the lease portfolio.
+
 - Descriptive statistics
 - Vendor and manufacturer cost analysis
 - Rental amount distribution
@@ -142,7 +139,8 @@ Deliverables:
 
 
 
-### Section III: Prepare Data for Training
+### Section III: Prepare Data 
+
 - Clean column names
 - Handle missing values
 - Create useful features such as rental-to-cost ratio, lease age, and days until primary term end
@@ -154,8 +152,25 @@ Deliverables:
 
 
 ### Section IV: Regression Modeling
-- Train Linear Regression and Random Forest Regressor
-- Compare model performance using MAEean_absolute_error), RMSE(Root Mean Squared Error), and R²(R-squared,Coefficient of Determination)
+
+Two regression algorithms are used to predict monthly rental amounts.
+
+## Models Evaluated
+## Linear Regression
+
+Used as a baseline model to understand linear relationships between features and rental amount.
+
+Random Forest Regressor
+
+Used to capture complex nonlinear relationships and improve prediction accuracy.
+
+Performance Metrics
+
+Model performance is evaluated using:
+
+- MAE (Mean Absolute Error)
+- RMSE (Root Mean Squared Error)
+- R² (Coefficient of Determination)
 
 ### Section V: Model Evaluation and Visualization
 - Actual vs predicted rental amount plot
