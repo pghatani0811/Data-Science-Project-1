@@ -173,6 +173,12 @@ Model performance is evaluated using:
 - R² (Coefficient of Determination)
 
 ### Section V: Model Evaluation and Visualization
+
+Several visualizations are used to assess model performance.
+
+- Evaluation Charts
+- Feature Importance Ranking
+- Prediction Accuracy Review
 - Actual vs predicted rental amount plot
 - Feature importance chart
 - Residual error review
