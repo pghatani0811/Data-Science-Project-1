@@ -176,8 +176,6 @@ Model performance is evaluated using:
 
 Several visualizations are used to assess model performance.
 
-- Evaluation Charts
-- Feature Importance Ranking
 - Prediction Accuracy Review
 - Actual vs predicted rental amount plot
 - Feature importance chart
@@ -229,6 +227,8 @@ jupyter notebook notebooks/Asset_Rental_Analytics.ipynb
 - Scikit-learn
 - Jupyter Notebook
 - Joblib (library used to save and load Python objects efficiently, especially used in scikit-learn)
+- GitHub
+
 
 ## Author
 
