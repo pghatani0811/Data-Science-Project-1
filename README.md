@@ -4,7 +4,7 @@
 
 This project studies an active lease asset report for Lexmark International Inc.
 
-The goal is to identify ways to reduce costs, lower contract risks, and improve lease management. The analysis looks at asset rental costs, lease contracts, missing data, and the factors that affect monthly rental payments.
+The main goal of this portfolio is to identify ways to reduce costs, lower contract risks, and improve lease management. The analysis looks at asset rental costs, lease contracts, missing data, and the factors that affect monthly rental payments
 
 Using data analysis, charts, and machine learning, the project turns raw lease data into useful business information that helps with financial and business decisions.
 
@@ -19,7 +19,7 @@ The project follows a simple data science process:
 
 ## Business Problem
 
-A company has many leased assets across contracts, vendors, manufacturers, and locations. Without analytics, it is hard to identify expensive assets, rental anomalies, upcoming contract risks, and cost-saving opportunities.
+With this company has many leased assets across contracts, vendors, manufacturers, and locations. Without analytics, it is hard to identify expensive assets, rental anomalies, upcoming contract risks, and cost-saving opportunities.
 
 - Identify high-cost leased assets
 - Detect unusual rental pricing patterns
@@ -104,7 +104,7 @@ Asset_Rental_Agreement_Analytics_Portfolio/
 ```
 
 ## Methodology
-## Section I: Data Access and Understanding
+## Method I: Data Access and Understanding
 
 Activities:
 
@@ -121,7 +121,7 @@ Deliverables:
 - Initial business understanding
 
 
-### Section II: Exploratory Data Analysis(EDA)
+### Method II: Exploratory Data Analysis(EDA)
 
 The EDA phase investigates relationships, distributions, and patterns within the lease portfolio.
 
@@ -139,7 +139,7 @@ The EDA phase investigates relationships, distributions, and patterns within the
 
 
 
-### Section III: Prepare Data 
+### Method III: Prepare Data 
 
 - Clean column names
 - Handle missing values
@@ -151,7 +151,7 @@ The EDA phase investigates relationships, distributions, and patterns within the
 
 
 
-### Section IV: Regression Modeling
+### Method IV: Regression Modeling
 
 Two regression algorithms are used to predict monthly rental amounts.
 
@@ -172,7 +172,7 @@ Model performance is evaluated using:
 - RMSE (Root Mean Squared Error)
 - R² (Coefficient of Determination)
 
-### Section V: Model Evaluation and Visualization
+### method V: Model Evaluation and Visualization
 
 Several visualizations are used to assess model performance.
 
@@ -187,7 +187,7 @@ Several visualizations are used to assess model performance.
 
 
 
-### Section VI: Business Recommendations
+### Method VI: Business Recommendations
 - Identify high-cost vendors/assets
 - Monitor rental-to-cost anomalies
 - Improve missing data quality
