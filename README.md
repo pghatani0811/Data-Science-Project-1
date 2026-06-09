@@ -155,11 +155,11 @@ The EDA phase investigates relationships, distributions, and patterns within the
 ### Method IV: Regression Modeling
 
 Two regression algorithms are used to predict monthly rental amounts.
+Model Evaluated
+1. Linear Regression
+2. Random Forest Regressor
 
-1. Models Evaluated
-2. Linear Regression
-
-Used as a baseline model to understand linear relationships between features and rental amount.
+Used as a baseline model to understand linear regression relationships between features and rental amount.
 
 Random Forest Regressor
 
