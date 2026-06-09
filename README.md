@@ -29,9 +29,10 @@ With this company has many leased assets across contracts, vendors, manufacturer
 
 This project addresses these challenges by analyzing lease asset information and developing predictive models that estimate monthly rental amounts.
 
-**Main prediction target:** `Asset Rental Amount`
+**Main prediction target:** `Reduce Monthly Asset Rental Expenses`
 
-Asset Rental Amount
+Reduce Monthly Asset Rental Expenses
+
 
 The primary objective is to identify the key drivers of rental costs and build models capable of predicting monthly rental expenses.
 
