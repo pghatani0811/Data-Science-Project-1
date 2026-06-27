@@ -134,11 +134,13 @@ The EDA phase investigates relationships, distributions, and patterns within the
 - Rental amount distribution
 - Asset cost vs rental amount relationship
 - Missing data visualization
-<img width="2082" height="834" alt="image" src="https://github.com/user-attachments/assets/7bf70bd6-3da0-4861-ac8c-5ebba6be8c3a" />
-  <img width="2086" height="844" alt="image" src="https://github.com/user-attachments/assets/f5a25350-c5d8-41b8-838f-37e56c4ecb0c" />
-  <img width="2096" height="778" alt="image" src="https://github.com/user-attachments/assets/612fe773-989c-4e55-a36e-104e5e2be325" />
-  <img width="2120" height="802" alt="image" src="https://github.com/user-attachments/assets/3a1a6e30-751c-44e2-bdf6-ab7aa19c34e1" />
-  <img width="2198" height="800" alt="image" src="https://github.com/user-attachments/assets/d73d8413-91c6-42af-bec6-6197b7850aee" />
+<img width="476" height="198" alt="image" src="https://github.com/user-attachments/assets/0ece2e00-a395-478a-8a5b-fb7479e73dc8" />
+<img width="506" height="198" alt="image" src="https://github.com/user-attachments/assets/ce048b61-a0aa-4397-8db5-94198335f272" />
+<img width="409" height="233" alt="image" src="https://github.com/user-attachments/assets/ab3b2e54-5ce2-4b85-ab2c-316ea44a7be6" />
+<img width="480" height="233" alt="image" src="https://github.com/user-attachments/assets/e09aec6c-4351-4379-880d-528db2759ced" />
+
+
+
 
 
 
