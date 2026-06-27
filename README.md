@@ -71,11 +71,14 @@ The analysis is based on an active lease asset report containing asset, contract
 ## Research Questions
 This project seeks to answer the following business questions:
 
-1. Which vendors and manufacturers have the highest rental cost exposure?
-2. Which asset types have the highest monthly rental amount?
-3. Are there unusual rental amounts compared with asset cost?
-4. Which features are most useful for predicting asset rental amount?
-5. What business recommendations can reduce cost and improve lease management?
+1. Which vendors and manufacturers have the highest rental costs? 
+2. Which asset types generate the highest monthly rental amounts? 
+
+3. Are there any unusual rental amounts compared to asset costs? 
+
+4. Which factors best predict asset rental amounts? 
+
+5. How can lease costs be reduced and lease management improved?<
 
 
 ## The primary objectives of this project are:
