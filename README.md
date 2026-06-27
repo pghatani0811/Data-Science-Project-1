@@ -129,10 +129,10 @@ Deliverables:
 
 The EDA phase investigates relationships, distributions, and patterns within the lease portfolio.
 
-- Descriptive statistics
-- Vendor and manufacturer cost analysis
-- Rental amount distribution
-- Asset cost vs rental amount relationship
+- Missing Values by Column
+- Asset Distribution by State
+- Distribution of Asset Rental Amount
+- Asset cost vs Monthly Rental Amount
 - Missing data visualization
 <img width="476" height="198" alt="image" src="https://github.com/user-attachments/assets/0ece2e00-a395-478a-8a5b-fb7479e73dc8" />
 <img width="506" height="198" alt="image" src="https://github.com/user-attachments/assets/ce048b61-a0aa-4397-8db5-94198335f272" />
