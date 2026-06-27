@@ -208,6 +208,7 @@ Several visualizations are used to assess model performance.
 
 
 ### Method VI: Business Recommendations
+
 - Missing Values by Column
 - Asset Distribution by State
 - Distribution of Asset Rental Amount
