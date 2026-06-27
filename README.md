@@ -183,6 +183,7 @@ Model performance is evaluated using:
 - MAE (Mean Absolute Error)
 - RMSE (Root Mean Squared Error)
 - R² (Coefficient of Determination)
+  
 <img width="704" height="140" alt="image" src="https://github.com/user-attachments/assets/f795726f-5189-49e8-8cca-7218c5a15869" />
 
 ### method V: Model Evaluation and Visualization
@@ -193,7 +194,8 @@ Several visualizations are used to assess model performance.
 - Lease Commencement Trend by Month
 - Lease Expiration Trend by Month
 - Top 20 Feature Importances
- <img width="2154" height="768" alt="image" src="https://github.com/user-attachments/assets/216c5cba-be2b-4516-a220-bfee70deea28" />
+
+<img width="2154" height="768" alt="image" src="https://github.com/user-attachments/assets/216c5cba-be2b-4516-a220-bfee70deea28" />
  <img width="2040" height="828" alt="image" src="https://github.com/user-attachments/assets/70cec061-4568-4486-901d-c8b54201f726" />
  <img width="2056" height="848" alt="image" src="https://github.com/user-attachments/assets/095378b7-6e55-4d9e-8f34-8c7542f7db1d" />
  <img width="2056" height="764" alt="image" src="https://github.com/user-attachments/assets/bfd703a8-31ff-4a8a-9d79-20b89f2a81dc" />
