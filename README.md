@@ -21,11 +21,11 @@ The project follows a simple data science process:
 
 With this company has many leased assets across contracts, vendors, manufacturers, and locations. Without analytics, it is hard to identify expensive assets, rental anomalies, upcoming contract risks, and cost-saving opportunities.
 
-- Identify high-cost leased assets
-- Detect unusual rental pricing patterns
-- Monitor contract expiration risks
-- Improve budgeting and forecasting
-- Optimize lease management strategies
+- The company has many leased assets in different locations.
+- These assets are managed under different contracts, vendors, and manufacturers.
+- It is difficult to find expensive assets without data analysis.
+- It is also hard to find unusual rental costs and contract risks. 
+- Data analysis can help find ways to reduce costs and improve lease management
 
 This project addresses these challenges by analyzing lease asset information and developing predictive models that estimate monthly rental amounts.
 
