@@ -208,10 +208,18 @@ Several visualizations are used to assess model performance.
 
 
 ### Method VI: Business Recommendations
-- Identify high-cost vendors/assets
-- Monitor rental-to-cost anomalies
-- Improve missing data quality
-- Use model predictions to flag unusual lease pricing
+- Missing Values by Column
+- Asset Distribution by State
+- Distribution of Asset Rental Amount
+- Asset Cost vs Monthly Rental Amount
+- Actual vs Predicted Rental Amount: Random Forest
+- Lease Commencement Trend by Month
+- Lease Expiration Trend by Month
+- Top 20 Feature Importances
+
+
+
+
 
 ## How to Run
 
