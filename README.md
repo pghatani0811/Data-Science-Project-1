@@ -137,6 +137,7 @@ The EDA phase investigates relationships, distributions, and patterns within the
 
   
   <img width="1364" height="318" alt="image" src="https://github.com/user-attachments/assets/1586d031-26ae-45a5-94ae-51a5bcc1e1f1" />
+  <img width="1930" height="690" alt="image" src="https://github.com/user-attachments/assets/a49b3d1b-5198-4baf-a8f4-631d218d2659" />
 <img width="2068" height="818" alt="image" src="https://github.com/user-attachments/assets/a58f6caf-0e2e-417f-bc2e-05ddbe03d38d" />
 <img width="2040" height="772" alt="image" src="https://github.com/user-attachments/assets/77434559-2a4f-4159-9e08-e1846e190372" />
 <img width="2168" height="788" alt="image" src="https://github.com/user-attachments/assets/d1312fdb-1a2a-463f-bb89-36b5ba852d00" />
